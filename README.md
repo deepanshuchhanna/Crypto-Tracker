@@ -1,10 +1,12 @@
-# Cryptoverse - Explore the World of Cryptocurrency
+# Crypto-Tracker - Explore the World of Cryptocurrency
 
-![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
+![Crypto-Tracker](./src/images/logo4.png)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial. 
 
-In this video, we will create a cryptocurrency app. We're going to use React and multiple APIs powered by https://rapidapi.com.
+This is a code repository for Our Final Year Project .
 
-By the end of this video, you will become the master of working with APIs.
+In this Project, we have create a cryptocurrency app. We have used React and multiple APIs powered by https://rapidapi.com.
+
+It's is a Team Project : Team Members - Deepanshu Chhanna, Chunnu Ji Tiwari and Deepak Kumar
+We have completed this project under our Project mentor : Dr. Kavita Rathi
