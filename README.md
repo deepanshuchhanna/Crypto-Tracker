@@ -1,6 +1,6 @@
 # Crypto-Tracker - Explore the World of Cryptocurrency
 
-![Crypto-Tracker](./src/images/logo4.png)
+![Crypto-Tracker](./src/images/home1PNG.PNG)
 
 ## Introduction
 
